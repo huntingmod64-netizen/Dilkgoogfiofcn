@@ -1,0 +1,7 @@
+python-telegram-bot
+Pillow
+opencv-python
+numpy
+torch
+diffusers
+transformers
