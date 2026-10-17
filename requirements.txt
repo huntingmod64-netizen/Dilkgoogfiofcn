@@ -3,5 +3,6 @@ Pillow
 opencv-python-headless
 numpy
 torch
+torchvision
 diffusers
 transformers
