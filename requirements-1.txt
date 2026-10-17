@@ -1,6 +1,6 @@
-python-telegram-bot
+python-telegram-bot>=20,<23
 Pillow
-opencv-python
+opencv-python-headless
 numpy
 torch
 diffusers
